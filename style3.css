@@ -1,0 +1,31 @@
+body{
+  background-image: url(https://media.giphy.com/media/GAJgLPFc0IJLa/giphy.gif);
+  background-position: center;
+  background-size: cover;
+}
+#please-sign{
+    font-family: 'Pops Sans';
+    color: white;
+}
+
+.my-remember{
+  color:white;
+}
+
+#my-logo{
+  border-radius: 100%;
+}
+
+.login{
+  margin: auto;
+  width: 20%;
+  border: 3px solid gray;
+  padding: 10px;
+  text-align: center;
+  justify-content: space-around;
+  border-radius: 10%;
+}
+
+.login-form{
+  padding-top: 200px;
+}

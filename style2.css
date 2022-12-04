@@ -1,0 +1,41 @@
+
+
+.main_bg{
+  background-image: url(media/background2.gif);
+  align-items: center;
+  background-size: cover;
+    height: 100vh;
+}
+
+#main-navbar{
+  color:#EAEAEA;
+}
+#navbar-name{
+  color:#9D84B7;
+  font-size: 1.5em;
+  font-family: 'Rubik Distressed', cursive;
+}
+
+.title h1{
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.title p{
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.title{
+    padding-top: 100px;
+}
+
+/*FORMS*/
+.form {
+  color:white;
+  padding-top: 80px;
+}
